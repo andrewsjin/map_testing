@@ -1,0 +1,151 @@
+,County,Municipality,Address,Provider,INFO,Test Type,GO LIVE DATE,PCR,Antigen,NAAT,lon,lat
+0,York,Biddeford,"384 ELM ST., Biddeford, ME 04005",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR and ANTIGEN,,True,True,False,-70.4713175,43.4841409
+1,Androscoggin,Lewiston,"446 SABATTUS ST., Lewiston, ME 04240",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,,True,False,False,-70.19272323469954,44.1017277
+2,Cumberland,Portland,"111 AUBURN ST., Portland, ME 04103",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR and ANTIGEN,,True,True,False,-70.28863484802142,43.70399675
+3,Kennebec,Waterville,"1 KENNEDY MEMORIAL DR., Waterville, ME 04901,",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,,True,False,False,-69.64960107317582,44.54083155
+4,Cumberland,South Portland,"51 MARKET ST., South Portland, ME 04106",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR and ANTIGEN,,True,True,False,-70.25511850196935,43.63619095
+5,Androscoggin,Lewiston,"10 EAST AVE, Lewiston, ME 04240",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,ANTIGEN,,False,True,False,-70.20489327061213,44.08597365
+6,York,Wells,"11 STEEPLE WAY, Wells, ME 04090",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,,True,False,False,-70.58730778082659,43.30166620983509
+7,Androscoggin,Auburn,"8 UNION STREET, Auburn, ME 04210",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,ANTIGEN,,False,True,False,-70.2306511,44.0993496
+8,York,Kennebunk,"48 PORTLAND RD., Kennebunck, ME 04043",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,,True,False,False,-70.53390320687951,43.3939846275311
+9,Washington,Calais,"55 Franklin Street, Calais, ME 04619",Eastport Health Care - Calais,"Tuesday, September 7th, 8:30am-12:30pm
+Wednesday, September 8th, 12:30pm-4:40pm
+
+207-454-3022",NAAT,,False,False,True,-67.2691041,45.1808984
+10,Cumberland,Portland,"1001 Westbrook Street, Portland, ME 04102",Maine CDC Public Health Nursing ,"Monday-Friday, 12-6:30pm
+No appointments necessary","PCR, Antigen, NAAT",,True,True,True,-70.3098738,43.6473046
+11,Kennebec,Augusta,"21 Enterprise Dr, Augusta, ME 04330",MaineGeneral Workplace Health,https://www.mainegeneral.org/about-us/mainegenerals-covid-19-response/covid-19-testing--screening/,PCR,,True,False,False,-69.79517646060825,44.36651486760213
+12,Hancock,Bar Harbor,"22 Hancock Street, Bar Harbor, ME 04609",Mount Desert Island Hospital,https://www.mdihospital.org/covid-19/,PCR,,True,False,False,-68.20237787162162,44.385971
+13,Aroostook,Presque Isle,"140 Academy St., Presque Isle, ME 04769",Northern Light A.R. Gould Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-67.99870162015863,46.67435485
+14,Hancock,Blue Hill,"57 Water Street, Northern Light Sussman Health Center, Blue Hill, ME 04614",Northern Light Blue Hill Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-68.58693138308104,44.4120110168288
+15,Piscataquis,Greenville,"364 Pritham Avenue, Greenville, ME 04441",Northern Light CA Dean Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-69.61090800632766,45.4586569
+16,Kennebec,Waterville,"174 Kennedy Memorial Drive, Waterville, ME 04901",Northern Light Inland Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-69.660118,44.5416818
+17,Hancock,Ellsworth,"32 Resort Way, Northern Light Health Center, Ellsworth, ME 04605",Northern Light Maine Coast Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-68.40516083260196,44.53343292870539
+18,Piscataquis,Dover-Foxcroft,"897 W Main St, Dover-Foxcroft, ME 04426",Northern Light Mayo Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-69.23731968799753,45.1876875
+19,Cumberland,Portland,"195 Fore River Parkway, Medical Office Building, Suite 170, Portland, ME 04102",Northern Light Pharmacy,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-70.28223943402868,43.64943299847935
+20,Somerset,Pittsfield,"470 Somerset Avenue, Pittsfield, ME 04967",Northern Light Sebasticook Valley Hospital,https://northernlighthealth.org/resources/covid-19/Testing,PCR,,True,False,False,-69.39863,44.7849095
+21,Aroostook,Fort Kent,"194 East Main Street , Fort Kent, ME 04743",Northern Maine Medical Center - Fort Kent,https://www.nmmc.org/,PCR,,True,False,False,-68.59248369199733,47.2653463
+22,Penobscot,Bangor,"1012 Union Street, Bangor, ME 04401",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-68.80890527536195,44.8147942
+23,Penobscot,Bangor,"Penobscot Pediatrics, 6 Telcom Drive, Bangor, ME 04401,",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-68.81241857461572,44.8197484123308
+24,Penobscot,Bangor,"Adult Wellness Center, 1068 Union Street, Bangor, ME 04401",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-68.8103117833894,44.8184074034842
+25,Penobscot,Brewer,"Brewer Community Health Center, 735 Wilson Street Brewer, Brewer, ME 04412",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-68.73024816926512,44.774693493763046
+26,Penobscot,Old Town,"Helen Hunt Health Center, 242 Brunswick Street, Old Town, ME 04468",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-68.64676297601595,44.93317098720694
+27,Waldo,Belfast,"Seaport Community Health Center, 53 Schoodic Drive, Belfast, ME 04915",Penobscot Community Health Care,https://pchc.com/covid-19-testing-site-information/,PCR,,True,False,False,-69.0235479605887,44.420188820878586
+28,Penobscot,Lincoln,"Penobscot Valley Hospital Medical Arts Building Specialty Clinic, 252 Enfield Road, Lincoln, ME 04457",Penobscot Valley Hospital,(207) 794-7185,PCR,,True,False,False,-68.51797795827224,45.348582518775665
+29,Somerset,Skowhegan,"46 Fairview Ave., Skowhegan, ME 04976",Redington-Fairview General Hospital,https://www.rfgh.net/index.xhtml,PCR,,True,False,False,-69.71267138696012,44.7586092
+30,Androscoggin,Auburn,"61 Union Street, Auburn, ME 04210",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.22899971881546,44.10070690789793
+31,Androscoggin,Auburn,"608 Minot Avenue, Auburn, ME 04210",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.2518662,44.082101
+32,Androscoggin,Lewiston,"430 Sabattus Street, Lewiston, ME 04240",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.1944365,44.1016267
+33,Cumberland,Naples,"665 Roosevelt Trl, Naples, ME 04055",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.59368545,43.9701911
+34,Cumberland,Portland,"616 Forest Ave, Portland, ME 04101",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.268122,43.659972
+35,Cumberland,Yarmouth,"478 Route 1, Yarmouth, ME 04096",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.1892052,43.79798705
+36,Franklin,Farmington,"317 Main St, Farmington, ME 04938",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.14959856410388,44.66377235
+37,Knox,Rockland,"28 Park St, Rockland, ME 04841",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-69.10995618983978,44.1016812
+38,Lincoln,Damariscotta,"365 Main Street, Damariscotta, ME 04543",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-69.52269889394518,44.031337
+39,Oxford,Norway,"53 Paris St, Norway, ME 04268",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.52964119965452,44.21198985
+40,Oxford,Rumford,"7 Portland Street, Rumford, ME 04276",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-70.54608090230536,44.5478569
+41,Sagadahoc,Topsham,"77 Mallett Drive, Topsham, ME 04086",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,,True,False,False,-69.9731587,43.9379735
+42,Washington,Calais,"223 North Street, Calais, ME 04619",Walgreens,"
+https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing","PCR 
+",,True,False,False,-67.2839033,45.1831337
+43,York,Buxton,"226 Parker Farm Rd, Buxton, ME 04093",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing ,PCR,,True,False,False,-70.5885932,43.6794251
+44,Aroostook,Madawaska,"429 Main St, Madawaska, ME 04756-1082",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.32119,47.3550179
+45,Aroostook,Presque Isle,"320 Main St., Presque Isle, ME 04769-2809",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.0150043,46.6782566
+46,Cumberland,Gorham,"120 Main St., Gorham, ME 04038-1306",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.4386788937495,43.6814573
+47,Cumberland,Gray,"62 West Gray Road, Gray, ME 04039",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.3417532,43.8829552
+48,Cumberland,Naples,"665 Roosevelt Trl., Naples, ME 04055",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.59368545,43.9701911
+49,Cumberland,Portland,"616 Forest Avenue, Portland, ME 04103",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.28323662119027,43.6696902
+50,Cumberland,Scarborough,"233 US Route 1, Scarborough, ME 04074",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.33389003952269,43.59177053361536
+51,Cumberland,Scarborough,"600 U.S. Route 1, Scarborough, ME 04074",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.38675423701753,43.571527056183506
+52,Cumberland,Westbrook,"465 Main St., Westbrook, ME 04092",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.34968645248424,43.68185765
+53,Cumberland,Windham,"741 Roosevelt Trl., Windham, ME 04062",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.43714200667765,43.83386675
+54,Cumberland,Yarmouth,"478 US Route 1, Yarmouth, ME 04096",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.18884807716715,43.7986047193604
+55,Franklin,Farmington,"317 Main St., Farmington, ME 04938",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.14959856410388,44.66377235
+56,Hancock,Blue Hill,"17 South St., Blue Hill, ME 04614",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.59626101283597,44.4062521
+57,Hancock,Ellsworth,"226 High Street, Ellsworth, ME 04605",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.4077442,44.5329298
+58,Kennebec,Augusta,"403 Water St., Augusta, ME 04330",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.77788888627614,44.31053465
+59,Kennebec,Augusta,"2007 N Belfast Ave, Augusta, ME 04330",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.76282999345125,44.32459675
+60,Kennebec,Gardiner,"9 Spring St., Gardiner, ME 04345",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.7732917,44.2333567
+61,Kennebec,Manchester,"943 Western Ave., Manchester, ME 04351",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.8633074,44.32482445
+62,Kennebec,Oakland,"19 Main St., Oakland, ME 04963",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.71465639769369,44.54822215
+63,Kennebec,Waterville,"210 Main St., Waterville, ME 04901",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.63203322636838,44.55332205
+64,Kennebec,Winslow,"36 China Road, Winslow, ME 04901",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.62644545,44.53781415
+65,Kennebec,Winthrop,"16 Peck Farm Rd., Winthrop, ME 04364",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.9597312,44.30815595
+66,Knox,Rockland,"28 Park St., Rockland, ME 04841",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.10995618983978,44.1016812
+67,Lincoln,Boothbay Harbor,"223 Townsend Ave., Boothbay Harbor, ME 04538",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.62751016882788,43.86369675
+68,Lincoln,Damariscotta,"365 Main St., Damariscotta, ME 04543",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.52269889394518,44.031337
+69,Oxford,Bethel,"28 Mayville Rd., Bethel, ME 04217",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.7957551,44.4124264
+70,Oxford,Lincoln,"2 W. Broadway, Lincoln, ME 04457",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.50539451082176,45.3618063
+71,Oxford,Norway,"53 Paris St., Norway, ME 04268",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.52964119965452,44.21198985
+72,Oxford,Rumford,"7 Portland St., Rumford, ME 04276",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.54608090230536,44.5478569
+73,Penobscot,Bangor,"706 Broadway, Bangor, ME 04401",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.78134894781618,44.8242973
+74,Penobscot,Bangor,"566 Union Street, Bangor, ME 04401",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.7910696,44.807359
+75,Penobscot,Brewer,"437 Wilson St., Brewer, ME 04412",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.7496858,44.7827492
+76,Penobscot,Hampden,"65 Western Ave., Hampden, ME 04444",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.84413719647705,44.74432455
+77,Penobscot,Newport,"36 Moosehead Trl., Newport, ME 04953",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.2839390842536,44.8372395
+78,Piscataquis,Dover-Foxcroft,"151 E. Main St., Dover-Foxcroft, ME 04426",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.2250462,45.1829553
+79,Piscataquis,Guilford,"3 Hudson Ave., #147, Guilford, ME 0444",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.38569648448426,45.166958523069695
+80,Piscataquis,Milo,"35 Park St., Milo, ME 04463-1152",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-68.9863492458396,45.2562432
+81,Sagadahoc,Bath,"11 State Rd., P.O. Box 1019, Bath, ME 04530",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.83195557503558,43.90703250565014
+82,Sagadahoc,Topsham,"77 Mallett Dr., Topsham, ME 04086",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.9731587,43.9379735
+83,Somerset,Pittsfield,"506 Somerset Ave., Pittsfield, ME 04967",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.40101295849396,44.7847865
+84,Somerset,Skowhegan,"225 Madison Ave., Skowhegan, ME 04976",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.72429243540816,44.7772176
+85,Waldo,Belfast,"268 Main St., Belfast, ME 04915",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-69.0190511,44.4232797
+86,Washington,Calais,"223 North Street, Calais, ME 04619",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-67.2839033,45.1831337
+87,Washington,Machias,"144 Dublin St., Machias, ME 04654-3409",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-67.4633683290237,44.70473185
+88,York,Biddeford,"335 Alfred St., Biddeford, ME 04005",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.4697467,43.4831077
+89,York,Buxton,"226 Parker Farm Rd., Buxton, ME 04093",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.5885932,43.6794251
+90,York,Cornish,"151 Maple St., Cornish, ME 04020",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.8187857,43.8051253
+91,York,Kennebunk,"37 Portland Rd., Kennebunk, ME 04043",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.5319412,43.3932844
+92,York,Kittery,"15 Shapleigh Rd., Kittery, ME 03904",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.7375168627106,43.09063045
+93,York,Old Orchard Beach,"15 Saco Ave., Old Orchard Beach, ME 04064",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.378301455887,43.5158375
+94,York,Sanford,"868 Main Street, Sanford, ME 04073",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.7777647778106,43.44185885
+95,York,Wells,"1036 Post Rd., Wells, ME 04090",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.5857274,43.3051775
+96,York,York,"400 U.S. Route 1, York, ME 03909",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,Antigen,,False,True,False,-70.6726239572168,43.149975726035436
+97,York,Sanford,"15 Oak Street, Sanford, ME 04083",Nasson Health Care - York County Community Action,https://nassonhealthcare.org/index.html,PCR,,True,False,False,-70.7983432,43.4652352
+98,Androscoggin,Auburn,"8 Union St, Auburn, ME 04210",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,2021-09-20T00:00:00,True,False,False,-70.2306511,44.0993496
+99,Cumberland,Westbrook,"870 Main St, Westbrook, ME 04092",CVS,https://www.cvs.com/minuteclinic/covid-19-testing,PCR,2021-09-21T00:00:00,True,False,False,-70.36728051068124,43.67652145
+100,Sagadahoc,BATH,"11 State Rd, Bath, ME 04530",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-69.83066718414429,43.90682545
+101,Cumberland,WINDHAM,"741 Roosevelt Trail, Windham, ME 04062",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.43714200667765,43.83386675
+102,Cumberland,SCARBOROUGH,"233 US-1, Scarborough, ME 04074",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.3340531,43.590714
+103,Penobscot,BANGOR,"706 Broadway, Bangor, ME 04401",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-68.78134894781618,44.8242973
+104,Penobscot,BREWER,"437 Wilson St, Brewer, ME 04412",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-68.7496858,44.7827492
+105,Hancock,ELLSWORTH,"226 High St, Ellsworth, ME 04605",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-68.4077442,44.5329298
+106,York,SANFORD,"868 Main St, Sanford, ME 04073",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.7777647778106,43.44185885
+107,Waldo,BELFAST,"268 Main St, Belfast, ME 04915",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-69.0190511,44.4232797
+108,Penobscot,BANGOR,"566 Union St, Bangor, ME 04401",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-68.7910696,44.807359
+109,Kennebec,WATERVILLE,"210 Main St, Waterville, ME 04901",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-69.63203322636838,44.55332205
+110,Penobscot,HAMPDEN,"65 Western Ave, Hampden, ME 04444",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-68.84413719647705,44.74432455
+111,York,KITTERY,"15 Shapleigh Rd, Kittery, ME 03904",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.7375168627106,43.09063045
+112,Cumberland,FALMOUTH,"33 Depot Rd, Falmouth, ME 04105",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.2314004327348,43.7218477
+113,Cumberland,SOUTH PORTLAND,"279 Main St, South Portland, ME 04106",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.2923214724332,43.63102575
+114,Cumberland,GRAY,"62 W Gray Rd, Gray, ME 04039",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.3417532,43.8829552
+115,York,YORK,"400 US-1, York, ME 03909",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-09-23T00:00:00,True,False,False,-70.6845379,43.143488
+116,Kennebec,AUGUSTA,"403 Water St, Augusta, ME 04330",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.77788888627614,44.31053465
+117,Somerset,SKOWHEGAN,"225 Madison Ave, Skowhegan, ME 04976",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.72429243540816,44.7772176
+118,Lincoln,LINCOLN,"2 W Broadway, Lincoln, ME 04457",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-68.50539451082176,45.3618063
+119,Aroostook,PRESQUE ISLE,"320 Main St, Presque Isle, ME 04769",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-68.0150043,46.6782566
+120,Penobscot,NEWPORT,"66 Moosehead Trail, Newport, ME 04953",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.2810877734461,44.84286724210999
+121,Kennebec,OAKLAND,"19 Main St, Oakland, ME 04963",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.71465639769369,44.54822215
+122,Hancock,BLUE HILL,"17 South St, Blue Hill, ME 04614",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-68.59626101283597,44.4062521
+123,Kennebec,WINTHROP,"16 Peck Farm Rd, Winthrop, ME 04364",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.9597312,44.30815595
+124,Piscataquis,DOVER FOXCROFT,"151 E Main St, Dover-Foxcroft, ME 04426",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.2250462,45.1829553
+125,Kennebec,MANCHESTER,"943 Western Ave, Manchester, ME 04351",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.8633074,44.32482445
+126,York,OLD ORCHARD BEACH,"15 Saco Ave, Old Orchard Beach, ME 04064",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-70.378301455887,43.5158375
+127,Aroostook,CARIBOU,"112 Bennett Dr, Caribou, ME 04736",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-68.0053094,46.8685551
+128,Cumberland,SCARBOROUGH,"600 US-1, Scarborough, ME 04074",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-70.3867526,43.5710928
+129,Piscataquis,GUILFORD,"3 Hudson Ave, Guilford, ME 04443",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-07T00:00:00,True,False,False,-69.38561904411317,45.16661575
+130,Androscoggin,LIVERMORE FALLS,"81 Main St, Livermore Falls, ME 04254",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.19203761410357,44.47611625
+131,York,KENNEBUNK,"37 Portland Rd, Kennebunk, ME 04043",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.5319412,43.3932844
+132,Aroostook,FORT FAIRFIELD,"335 Main St, Fort Fairfield, ME 04742",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-67.83312553586165,46.77208014070177
+133,Cumberland,WESTBROOK,"465 Main St, Westbrook, ME 04092",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.34968645248424,43.68185765
+134,Aroostook,FORT KENT,"84 E Main St, Fort Kent, ME 04743",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-68.5900643,47.2575611
+135,Piscataquis,MILO,"35 Park St, Milo, ME 04463",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-68.9863492458396,45.2562432
+136,Kennebec,GARDINER,"9 Spring St, Gardiner, ME 04345",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-69.7732917,44.2333567
+137,Aroostook,MADAWASKA,"429 Main St, Madawaska, ME 04756",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-68.32119,47.3550179
+138,Kennebec,AUGUSTA,"2007 N Belfast Ave, Augusta, ME 04330",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-69.76282999345125,44.32459675
+139,York,WELLS,"1036 Post Rd, Wells, ME 04090",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.5857274,43.3051775
+140,Kennebec,WINSLOW,"36 China Rd, Winslow, ME 04901",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-69.62644545,44.53781415
+141,Cumberland,GORHAM,"Gorham Village Plaza Shopping Center, 120 Main St, Gorham, ME 04038",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.43882983199363,43.681627253606315
+142,Lincoln,BOOTHBAY HARBOR,"223 Townsend Ave, Boothbay Harbor, ME 04538",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-69.62751016882788,43.86369675
+143,Androscoggin,LISBON FALLS,"575 Lisbon St, Lisbon Falls, ME 04252",Walgreens,https://www.walgreens.com/findcare/covid19/testing?ban=covid_vanity_testing,PCR,2021-10-14T00:00:00,True,False,False,-70.0634594,44.0010791
